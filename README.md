@@ -35,6 +35,8 @@ To develop a wireless notice board system using Bluetooth and Arduino to display
 ## 📁 Files Included
 - `noticeboard.ino` – Complete Arduino source code for message scrolling
 - `README.md` – This documentation file
+- pin diagram
+- output
 
 ## 📸 (Optional)
 Include your circuit diagram or demo screenshots here if available.
